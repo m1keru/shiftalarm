@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: ShiftAlarm
+## Notes: Big on-screen warning when Mana won't cover shifting back into Cat Form. Works in combat.
+## Notes-ruRU: Крупное предупреждение посреди экрана, когда маны не хватит вернуться в облик кошки. Работает в бою. /sal
+## Version: 0.1.0
+## IconTexture: Interface\Icons\Ability_Druid_CatForm
+## SavedVariablesPerCharacter: ShiftAlarmDB
+## OptionalDeps: Formwise
+
+ShiftAlarm.lua
